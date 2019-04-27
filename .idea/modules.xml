@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../NASA相关信息查询系统/.idea/NASA相关信息查询系统.iml" filepath="$PROJECT_DIR$/../NASA相关信息查询系统/.idea/NASA相关信息查询系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/统计局数据.iml" filepath="$PROJECT_DIR$/.idea/统计局数据.iml" />
+    </modules>
+  </component>
+</project>
